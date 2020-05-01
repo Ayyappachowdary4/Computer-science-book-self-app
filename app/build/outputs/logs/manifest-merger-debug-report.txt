@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dd4ffbf73f3dec8eb695a2ef03b62e3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d25f10ae473980eba63fe10a25227bd5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6f502b55a71b0c11395aedf053905acb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\82966121a7f77ec25cdd4b596eaff683\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dc889252354541abf8310a61e65e19d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0a1f085cbeca083051d53adece72dfaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58d779a6845aaccf65936eb6fea44c67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b2a286739110116e0a3521d5952395ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ce7a13a4b2ee6f829df5aa1c7e5eee5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a8613999ec497fa08eb18a2bfad39f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb8c790cb1c3cde14fa2c7b7f7d99676\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\511a8d45700e8b51391d4d82416d0db3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b010da1fc27951f675093106354f3ded\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2cf112008637ae9170a5081278e23666\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9399fba8213cd52d8fcac3dad89d0ce3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0033a0e463f667fedbd53d7a0c523a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c72713f6c2ae230a6acdc5ef52893ee9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\43b32cbf5feb98affebbd5e6230add94\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1e3a0648e31529d66418691bb8f6b38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\633309aa34c85fd7d77b843a8521b70d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\72207978c9b663ba160fb13cd0cc7c47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\46e19a394077db3d6cfa5c05fd2102a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6cacefb0d6437ab77e93b6e0569c58df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\afe646c84c5059611c7c2086e272b32f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4a81c9163e324a7bf0001be673ec184\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89dc57765374c74d626a3c6adf20fa74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7850b1ecdf9bdb08e817a9d6a1fdb5f9\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+	package
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:1-128:12
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:2:11-69
+compatible-screens
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:5:5-11:40
+	android:largeScreens
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:11:9-37
+	android:resizeable
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:9:9-34
+	android:anyDensity
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:6:9-34
+application
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:13:5-126:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d25f10ae473980eba63fe10a25227bd5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d25f10ae473980eba63fe10a25227bd5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c72713f6c2ae230a6acdc5ef52893ee9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c72713f6c2ae230a6acdc5ef52893ee9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.aditya.homepage.MainActivity
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:22:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:25:17-26:23
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.aditya.homepage.Main2Activity
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:30:13-42
+activity#com.example.aditya.homepage.Theory
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:34:13-35
+activity#com.example.aditya.homepage.Prog
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:39:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:38:13-33
+activity#com.example.aditya.homepage.Others
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:44:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:42:13-35
+activity#com.example.aditya.homepage.Networks
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:47:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:46:13-37
+activity#com.example.aditya.homepage.th1
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:49:9-52:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:51:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:50:13-32
+activity#com.example.aditya.homepage.th2
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:53:9-56:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:56:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:55:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:54:13-32
+activity#com.example.aditya.homepage.th3
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:57:9-60:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:60:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:59:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:58:13-32
+activity#com.example.aditya.homepage.th4
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:61:9-64:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:63:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:62:13-32
+activity#com.example.aditya.homepage.th5
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:68:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:67:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:66:13-32
+activity#com.example.aditya.homepage.th6
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:71:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:70:13-32
+activity#com.example.aditya.homepage.Compiler
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:76:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:75:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:74:13-37
+activity#com.example.aditya.homepage.Cprog
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:80:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:79:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:78:13-34
+activity#com.example.aditya.homepage.DataStruct
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:84:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:83:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:82:13-39
+activity#com.example.aditya.homepage.Java
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:88:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:86:13-33
+activity#com.example.aditya.homepage.Rprog
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:92:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:91:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:90:13-34
+activity#com.example.aditya.homepage.Computing
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:95:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:94:13-38
+activity#com.example.aditya.homepage.Python
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:97:9-100:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:100:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:99:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:98:13-35
+activity#com.example.aditya.homepage.DBMS
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:101:9-104:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:104:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:103:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:102:13-33
+activity#com.example.aditya.homepage.DAA
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:105:9-108:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:108:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:107:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:106:13-32
+activity#com.example.aditya.homepage.Cloud
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:109:9-112:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:112:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:111:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:110:13-34
+activity#com.example.aditya.homepage.ip
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:113:9-116:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:116:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:115:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:114:13-31
+activity#com.example.aditya.homepage.computersecurity
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:117:9-120:52
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:120:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:119:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:118:13-45
+activity#com.example.aditya.homepage.cn
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:121:9-124:61
+	android:screenOrientation
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:124:13-49
+	android:configChanges
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:123:13-48
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:122:13-31
+activity#com.example.aditya.homepage.aboutus
+ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:125:9-54
+	android:name
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml:125:19-42
+uses-sdk
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dd4ffbf73f3dec8eb695a2ef03b62e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\dd4ffbf73f3dec8eb695a2ef03b62e3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d25f10ae473980eba63fe10a25227bd5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\d25f10ae473980eba63fe10a25227bd5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6f502b55a71b0c11395aedf053905acb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\6f502b55a71b0c11395aedf053905acb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\82966121a7f77ec25cdd4b596eaff683\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\82966121a7f77ec25cdd4b596eaff683\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dc889252354541abf8310a61e65e19d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\dc889252354541abf8310a61e65e19d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0a1f085cbeca083051d53adece72dfaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0a1f085cbeca083051d53adece72dfaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58d779a6845aaccf65936eb6fea44c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\58d779a6845aaccf65936eb6fea44c67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b2a286739110116e0a3521d5952395ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\b2a286739110116e0a3521d5952395ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ce7a13a4b2ee6f829df5aa1c7e5eee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2ce7a13a4b2ee6f829df5aa1c7e5eee5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a8613999ec497fa08eb18a2bfad39f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\3a8613999ec497fa08eb18a2bfad39f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb8c790cb1c3cde14fa2c7b7f7d99676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb8c790cb1c3cde14fa2c7b7f7d99676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\511a8d45700e8b51391d4d82416d0db3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\511a8d45700e8b51391d4d82416d0db3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b010da1fc27951f675093106354f3ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b010da1fc27951f675093106354f3ded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2cf112008637ae9170a5081278e23666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\2cf112008637ae9170a5081278e23666\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9399fba8213cd52d8fcac3dad89d0ce3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\9399fba8213cd52d8fcac3dad89d0ce3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0033a0e463f667fedbd53d7a0c523a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a0033a0e463f667fedbd53d7a0c523a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\5fb08b40328f3507ce5cdab945e96cc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c72713f6c2ae230a6acdc5ef52893ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c72713f6c2ae230a6acdc5ef52893ee9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\43b32cbf5feb98affebbd5e6230add94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\43b32cbf5feb98affebbd5e6230add94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1e3a0648e31529d66418691bb8f6b38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1e3a0648e31529d66418691bb8f6b38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\633309aa34c85fd7d77b843a8521b70d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\633309aa34c85fd7d77b843a8521b70d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\72207978c9b663ba160fb13cd0cc7c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\72207978c9b663ba160fb13cd0cc7c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\46e19a394077db3d6cfa5c05fd2102a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\46e19a394077db3d6cfa5c05fd2102a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6cacefb0d6437ab77e93b6e0569c58df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\6cacefb0d6437ab77e93b6e0569c58df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\afe646c84c5059611c7c2086e272b32f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\afe646c84c5059611c7c2086e272b32f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4a81c9163e324a7bf0001be673ec184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a4a81c9163e324a7bf0001be673ec184\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89dc57765374c74d626a3c6adf20fa74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89dc57765374c74d626a3c6adf20fa74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7850b1ecdf9bdb08e817a9d6a1fdb5f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Aditya\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\7850b1ecdf9bdb08e817a9d6a1fdb5f9\AndroidManifest.xml:20:5-44
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		ADDED from D:\Work\Final\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Work\Final\app\src\main\AndroidManifest.xml
